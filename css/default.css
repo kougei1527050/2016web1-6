@@ -15,8 +15,8 @@ body{
  float:left;
  margin-right:30px;
 }
- .cha-han{
+ .cha_han{
    content:"";
-   clear: clear;
+   clear: both;
    display:block;
   }
