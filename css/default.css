@@ -45,7 +45,7 @@ body{
   #ingredient{
    border:2px solid lightcoral;
    border-collapse: collapse;
-  }
+ 
   
   th{
    border:1px solid lightcoral;
@@ -60,3 +60,4 @@ body{
    width:80px;
    text-align:right;
   }
+}
