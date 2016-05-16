@@ -33,5 +33,15 @@ body{
   
   .btn{
    -webkit-appearance:none;
+   -webkit-border-radius: 0;
    margin: 5px;
+   width: 100px;
+   height: 40px;
+   padding: 10px;
+   border:none;
+   font-size:16px;
   }
+  .btn-r{
+   background-color:lightcoral;
+  }
+  
