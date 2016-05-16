@@ -18,16 +18,16 @@ body{
  .cha_han{
    content:"";
    clear: both;
-   display:block;
+   display: block;
   }
   .explanation{
-   float:left;
-   width:468px;
+   float: left;
+   width: 468px;
   }
   
   dt{
-   clear:left;
-   float:left;
-   font-weight:bold;
+   clear: left;
+   float: left;
+   font-weight: bold;
    
   }
