@@ -9,10 +9,10 @@ body{
   border: green 1px solid;
   background-color: white;
  
-  .cha-han{
+  
+}
+ .cha-han{
    content:"";
    clear: both;
    display:block;
   }
-}
- 
