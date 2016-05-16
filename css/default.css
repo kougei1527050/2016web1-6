@@ -17,6 +17,6 @@ body{
 }
  .cha-han{
    content:"";
-   clear: both;
+   clear: clear;
    display:block;
   }
